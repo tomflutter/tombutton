@@ -1,0 +1,23 @@
+name: tombutton
+description: A customizable button UI package for Flutter.
+version: 0.0.2
+author: tomflutter
+homepage: https://pub.dev/packages/tombutton/versions/0.0.2
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+# Pastikan menambahkan changelog ini agar bisa dipakai dengan benar
+changelog:
+  file: CHANGELOG.md
