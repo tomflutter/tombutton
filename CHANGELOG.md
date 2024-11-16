@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.0.4] - 2024-11-16
+### Removed
+- Memperbarui Tampilan Button Agar lebih menarik dengan Tampilan UI Tom.
+
 ## [0.0.3] - 2024-11-06
 ### Removed
 - Menghapus field `author` dari file `pubspec.yaml` karena tidak lagi digunakan oleh Pub.dev.

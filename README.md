@@ -8,4 +8,4 @@ Add the package to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  tombutton: ^0.0.1
+  tombutton: ^0.0.4
