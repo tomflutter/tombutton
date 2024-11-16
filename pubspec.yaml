@@ -1,7 +1,7 @@
 name: tombutton
 description: A customizable button UI package for Flutter.
-version: 0.0.3
-homepage: https://pub.dev/packages/tombutton/versions/0.0.2
+version: 0.0.4
+homepage: https://pub.dev/packages/tombutton/versions/
 
 environment:
   sdk: ">=3.5.0 <4.0.0"
